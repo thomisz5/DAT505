@@ -1,0 +1,4 @@
+192.168.0.1 dev enp0s3 lladdr 00:22:07:af:11:7e STALE 
+10.10.10.1 dev enp0s8 lladdr 08:00:27:93:90:40 STALE 
+10.10.10.2 dev enp0s8 lladdr 08:00:27:fb:e4:3d STALE 
+fe80::222:7ff:feaf:117e dev enp0s3 lladdr 00:22:07:af:11:7e router STALE 

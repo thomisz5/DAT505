@@ -1,0 +1,18 @@
+# Core networking / packet manipulation
+scapy>=2.4.5
+
+# Packet analysis and reading PCAP files
+pyshark>=0.6
+tqdm>=4.65.0
+
+# Optional web server / logging utilities
+Flask>=3.0.0
+colorama>=0.4.6
+
+# For data output and reporting
+pandas>=2.0.0
+
+# Ensure compatibility with Python 3.10+
+
+
+pip3 install -r requirements.txt
